@@ -1,0 +1,30 @@
+﻿  project.cpp
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(33,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(34,45): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(34,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(37,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(38,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(38,32): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(56,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(66,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(70,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(145,77): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(145,55): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\10522\Desktop\FlappyBird\project\project\project.cpp(155,50): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  project.vcxproj -> C:\Users\10522\Desktop\FlappyBird\project\Debug\project.exe
